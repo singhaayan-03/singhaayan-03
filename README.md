@@ -14,7 +14,7 @@ TypeScript • Next.js • AI/ML • Backend Development • System Design <br><
 ⚡ I enjoy turning random ideas into real projects, debugging at 2 AM, and pretending console.log() is a personality trait 😅 <br>
 
 Always Learning, Building, and Leveling Up ... 🚀🚀🚀
-### 📫 Reach me: your.email@example.com
+### 📫 Reach me: official.as.1600@gmail.com
 <br>
 
 ## 📊 My Hidden Stats:
