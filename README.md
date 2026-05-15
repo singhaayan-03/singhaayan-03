@@ -5,10 +5,10 @@
 
 💡 Exploring full-stack web development, AI-powered applications, and modern tech ecosystems<br></br>
 
-🛠️ Tech Stack:
+🛠️ Tech Stack: <br>
 HTML • CSS • JavaScript • React • Node.js • Python <br></br>
 
-📚 Currently learning:
+📚 Currently learning: <br>
 TypeScript • Next.js • AI/ML • Backend Development • System Design <br></br>
 
 ⚡ I enjoy turning random ideas into real projects, debugging at 2 AM, and pretending console.log() is a personality trait 😅 <br>
