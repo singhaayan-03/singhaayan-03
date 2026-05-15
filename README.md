@@ -12,9 +12,10 @@ HTML • CSS • JavaScript • React • Node.js • Python <br></br>
 TypeScript • Next.js • AI/ML • Backend Development • System Design <br></br>
 
 ⚡ I enjoy turning random ideas into real projects, debugging at 2 AM, and pretending console.log() is a personality trait 😅 <br>
+
 Always Learning, Building, and Leveling Up ... 🚀🚀🚀
 ### 📫 Reach me: your.email@example.com
-<br></br>
+<br>
 
 ## 📊 My Hidden Stats:
 
