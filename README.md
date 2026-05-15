@@ -1,7 +1,8 @@
 # Hi there 👋
 
-## I’m Aayan Singh:
+# I’m Aayan Singh:
 🎓 Computer Science student passionate about building cool stuff with code<br>
+
 💡 Exploring full-stack web development, AI-powered applications, and modern tech ecosystems<br></br>
 
 🛠️ Tech Stack:
